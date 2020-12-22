@@ -11,7 +11,7 @@ pod install
 to install the necessary pods.
 
 ## Details
-
-Used [Realm](https://github.com/realm/realm-cocoa) to persist data.
-Used [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) for the swipe action.
-Used [Chameleon](https://github.com/wowansm/Chameleon/tree/swift5) for colours.
+Pods used:  
+ - [Realm](https://github.com/realm/realm-cocoa) to persist data.  
+ - [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) for the swipe action.  
+ - [Chameleon](https://github.com/wowansm/Chameleon/tree/swift5) for colours.
