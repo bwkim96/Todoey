@@ -6,7 +6,7 @@ My version of a Todoey App - a simple iOS to-do list app. [Original version](htt
 To use, install [Cocoapods](https://cocoapods.org/) and run
 
 ```bash
-pods install
+pod install
 ```
 to install the necessary pods.
 
